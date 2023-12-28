@@ -3,9 +3,6 @@
 ### Overview
 This repository contains the code and resources for a sentiment analysis project focused on analyzing drug reviews. The dataset is a combination of two sources: WebMD and UCI Machine Learning Repository, merged and preprocessed to create a comprehensive dataset for sentiment analysis.
 
-## Datasets links
-
-
 ### Data Preprocessing
 Null Values Handling: Checked and addressed null values in the dataset.
 Column Names: Altered column names for consistency and clarity.
